@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VPhilavong
 - 👀 I’m interested in data science, artifical intelligence, and software development
 - 🌱 I’m currently learning how to create data-driven projects
-- 📫 How to reach me vbphilavong@gmail.com or Vincent Philavong on Linkedin
+- 📫 How to reach me vbphilavong@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love going to concerts!
 
