@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VPhilavong
+- 👋 Hi, I’m Vincent
 - 👀 I’m interested in data engineering, artifical intelligence, and software development
 - 🌱 I’m currently learning how to create data-driven projects
 - 📫 How to reach me: vbphilavong@gmail.com
