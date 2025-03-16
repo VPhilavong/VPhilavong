@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Vincent
-- 👀 I’m interested in data engineering, artifical intelligence, and software development
-- 🌱 I’m currently learning how to create data-driven projects
+- 👀 I’m interested in data science and software development
 - 📫 How to reach me: vbphilavong@gmail.com
-- 😄 Pronouns: he/him
 
 <!---
 VPhilavong/VPhilavong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
