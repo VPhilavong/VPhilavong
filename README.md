@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vincent Philavong 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Student @ UW-Madison</h3>
+<h3 align="center">Student @ UW-Madison</h3>
 
 <p align="center">
   <img src="https://your-banner-image-url" alt="Banner" />
@@ -11,7 +11,8 @@
 - 🎓 I am currently studying Computer Science with a certificate in Data Science @ UW-Madison, graduating 2026
 - 💬 I’m interested in **data science/engineering, systems programming, machine learning, and clouds**
 - ✉️ Reach me: [vbphilavong@gmail.com](mailto:vbphilavong@gmail.com)
-
+- ⚡ Fun fact: I am originally from the Chicagoland Area!
+ 
 ---
 
 ### 🔗 Connect With Me
@@ -32,8 +33,8 @@
 
 ### 📈 GitHub Stats
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPhilavong&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VPhilavong&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=radical)
+[![Vincent's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VPhilavong&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
