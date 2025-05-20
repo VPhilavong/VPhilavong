@@ -71,20 +71,13 @@
 
 ### 📈 GitHub Stats
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPhilavong&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VPhilavong&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=VPhilavong&theme=radical&row=1&column=4)
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=radical)
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPhilavong&show_icons=true&count_private=true&include_all_commits=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VPhilavong&layout=compact&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=merko)
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  Built with by Vincent Philavong | Updated: May 5th, 2025
+  Built by Vincent Philavong | Updated: May 20th, 2025
 </p>
