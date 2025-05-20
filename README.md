@@ -34,7 +34,6 @@
 ### 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=radical)
-[![Vincent's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VPhilavong&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
