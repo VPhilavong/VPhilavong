@@ -66,8 +66,13 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vphilavong&show_icons=true&theme=gotham" alt="vphilavong" />
- <a href="https://github.com/VPhilavong/github-readme-activity-graph"><img alt="VPhilavong's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=VPhilavong&bg_color=1F222E&color=99d1ce&line=258f76&point=99d1ce&hide_border=true" /></a>
+<p align = "center">
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=vphilavong&show_icons=true&theme=gotham" alt="vphilavong" />
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPhilavong&show_icons=true&theme=gotham" alt="vphilavong"/>
+</p>
+ <a href="https://github.com/VPhilavong/github-readme-activity-graph"><img alt="VPhilavong's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=VPhilavong&bg_color=1F222E&color=99d1ce&line=258f76&point=99d1ce&hide_border=true" />
+ </a>
+ 
 ---
 
 <!-- Footer -->
