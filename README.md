@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vincent Philavong 👋</h1>
-<h3 align="center">Student @ UW-Madison</h3>
+<h3 align="center">Student Developer @ UW-Madison</h3>
 
 ---
 
@@ -66,10 +66,7 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPhilavong&show_icons=true&count_private=true&include_all_commits=true&theme=merko)
-![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=merko)
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vphilavong&show_icons=true&theme=gotham" alt="vphilavong" />
 ---
 
 <!-- Footer -->
