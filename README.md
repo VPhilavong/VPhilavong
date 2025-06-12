@@ -1,4 +1,4 @@
-<h3>Hello everyone 👋, I'm Vincent </h3>
+<h2>Hello everyone 👋, I'm Vincent </h2>
 
 ---
 
