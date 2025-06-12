@@ -20,9 +20,7 @@
 ---
 
 ### 💡 About Me
-- 🎓 I am currently studying Computer Science with a certificate in Data Science @ UW-Madison, graduating 2026
-- 💬 I’m interested in **AI/ML, Software Development, and Cloud Engineering**
-- ✉️ Reach me: [vbphilavong@gmail.com](mailto:vbphilavong@gmail.com)
+I'm a passionate developer with over 5 years of experience building projects. I am currently a student at the University of Wisconsin - Madison and graduate in 2026. I am currently specializing in AI/ML and Software Development, but I want to expand my knowledge into Cloud systems. When I'm not coding, you can find me listening to music and exploring!
  
 ---
 
