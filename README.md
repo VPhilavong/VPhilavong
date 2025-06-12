@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vincent Philavong 👋</h1>
+<h3 align="center">Hello everyone 👋, I'm Vincent </h3>
 <h3 align="center">Student Developer @ UW-Madison</h3>
 
 ---
