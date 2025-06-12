@@ -66,10 +66,10 @@
 ---
 
 ### 📈 GitHub Stats
-
+<p align="center">
 ![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPhilavong&show_icons=true&count_private=true&include_all_commits=true&theme=merko)
 ![GitHub Streak](https://streak-stats.demolab.com?user=VPhilavong&theme=merko)
-
+</p>
 ---
 
 <!-- Footer -->
