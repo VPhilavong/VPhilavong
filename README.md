@@ -1,13 +1,11 @@
-<h3 align="center">Hello everyone 👋, I'm Vincent </h3>
-<h3 align="center">Student Developer @ UW-Madison</h3>
+<h3>Hello everyone 👋, I'm Vincent </h3>
 
 ---
 
 ### 💡 About Me
 - 🎓 I am currently studying Computer Science with a certificate in Data Science @ UW-Madison, graduating 2026
-- 💬 I’m interested in **data science/engineering, systems programming, machine learning, and clouds**
+- 💬 I’m interested in **AI/ML, Software Development, and Cloud Engineering**
 - ✉️ Reach me: [vbphilavong@gmail.com](mailto:vbphilavong@gmail.com)
-- ⚡ Fun fact: I am originally from the Chicagoland Area!
  
 ---
 
