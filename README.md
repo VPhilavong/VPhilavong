@@ -1,12 +1,5 @@
-<h2>Hello everyone 👋, I'm Vincent </h2>
+<h2>Hello everyone 👋, I'm Vincent </h2>  
 
----
-
-### 💡 About Me
-- 🎓 I am currently studying Computer Science with a certificate in Data Science @ UW-Madison, graduating 2026
-- 💬 I’m interested in **AI/ML, Software Development, and Cloud Engineering**
-- ✉️ Reach me: [vbphilavong@gmail.com](mailto:vbphilavong@gmail.com)
- 
 ---
 
 ### 🔗 Connect With Me
@@ -15,6 +8,22 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincentphilavong/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github)](https://github.com/VPhilavong)
 
+---  
+
+### 💼 Open to Opportunities
+🎯 **Actively seeking Spring/Summer 2026 internships and new grad opportunities** in:
+- Data Engineering
+- Software Development  
+- AI/ML Engineering
+- Cloud Engineering
+
+---
+
+### 💡 About Me
+- 🎓 I am currently studying Computer Science with a certificate in Data Science @ UW-Madison, graduating 2026
+- 💬 I’m interested in **AI/ML, Software Development, and Cloud Engineering**
+- ✉️ Reach me: [vbphilavong@gmail.com](mailto:vbphilavong@gmail.com)
+ 
 ---
 
 <details>
