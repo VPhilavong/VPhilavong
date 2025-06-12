@@ -49,7 +49,7 @@
 ---
 
 <details>
- <summary><h2> 📈 GitHub Stats </h2></summary>
+ <summary><h3> 📈 GitHub Stats </h3></summary>
  <p align = "center">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vphilavong&show_icons=true&theme=gotham" alt="vphilavong" />
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPhilavong&show_icons=true&theme=gotham&hide=Jupyter%20Notebook" alt="vphilavong"/>
