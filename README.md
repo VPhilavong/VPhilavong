@@ -7,21 +7,21 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbphilavong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincentphilavong/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github)](https://github.com/VPhilavong)
-[![Website](https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=globe&logoColor=white)](https://your-personal-website-url.com)
+[![Website](https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=globe&logoColor=white)](https://vincentphilavong.com)
 
 ---  
 
 ### 💼 Open to Opportunities
-🎯 **Actively seeking Spring/Summer 2026 internships and new grad opportunities** in:
+🎯 **Actively seeking new grad opportunities 2026** in:
 - Data Engineering
-- Software Development  
+- Data Science
+- Data Analytics
 - AI/ML Engineering
-- Cloud Engineering
 
 ---
 
 ### 💡 About Me
-I'm a passionate developer with over 5 years of experience building projects. I am currently a student at the University of Wisconsin - Madison and graduate in 2026. I am currently specializing in AI/ML and Software Development, but I want to expand my knowledge into Cloud systems. When I'm not coding, you can find me listening to music and exploring!
+I'm a passionate developer with over 5 years of experience building projects. I am currently a student at the University of Wisconsin - Madison and graduate in 2026.
  
 ---
 
@@ -72,5 +72,5 @@ I'm a passionate developer with over 5 years of experience building projects. I 
 
 <!-- Footer -->
 <p align="center">
-  Built by Vincent Philavong | Updated: May 20th, 2025
+  Built by Vincent Philavong | Updated: Sept 23th, 2025
 </p>
