@@ -11,19 +11,8 @@
 
 ---  
 
-### 💼 Open to Opportunities
-🎯 **Actively seeking new grad opportunities 2026** in:
-- Data Engineering
-- Data Science
-- Data Analytics
-- AI/ML Engineering
-
----
-
 ### 💡 About Me
-New possibilities and turning complex puzzles into tangible solutions is my core professional passion. This commitment to continuous exploration is why I chose to immerse myself in the world of data and code.
-
-I am currently pursuing degrees in Computer Science and Data Science at the University of Wisconsin-Madison with an expected graduation in Spring 2026. My technical skills are constantly being refined through hands-on development as a dedicated developer whose work mainly revolves around AI, data, cloud computing. I thrive on translating theoretical knowledge into tangible, functional applications.
+Hello! I am Vincent and I am currently pursuing degrees in Computer Science and Data Science at the University of Wisconsin-Madison with an expected graduation in Spring 2026. My technical skills are constantly being refined through hands-on development as a dedicated developer whose work mainly revolves around AI, data, cloud computing. I thrive on translating theoretical knowledge into tangible, functional applications.
 
 I'm happy to connect with professionals working on cutting-edge software and data systems. Let's talk about the next big problem we can solve together!
  
